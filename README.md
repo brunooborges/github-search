@@ -1,4 +1,4 @@
-##[Live Site](https://brunooborges.github.io/github-search)
+[Live Site](https://brunooborges.github.io/github-search)
 
 # Questões Teóricas
 
