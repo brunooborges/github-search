@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/github-search/static/js/main.fc2babfa.js",
+    "static/media/logo.svg": "/github-search/static/media/logo.3e48f00d8b86631866e3a7b7f35ecf49.svg",
+    "index.html": "/github-search/index.html",
+    "static/media/sad.svg": "/github-search/static/media/sad.4cf84b3e2b511d7122fdd30278c88dfb.svg",
+    "main.fc2babfa.js.map": "/github-search/static/js/main.fc2babfa.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fc2babfa.js"
+  ]
+}
